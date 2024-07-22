@@ -38,8 +38,6 @@ speech.save("texto.mp3")
 
 # Reproduce el archivo de audio
 os.system("start texto.mp3")  # Para Windows
-# Para macOS usa: os.system("afplay texto.mp3")
-# Para Linux usa: os.system("mpg321 texto.mp3")
 
 
 
